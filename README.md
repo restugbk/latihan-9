@@ -5,4 +5,5 @@ Lalu setting config database berada di file
 "lib/config.php"
 
 Tinggal sesuaikan :)
+
 ~Restu Fadhilah
