@@ -6,4 +6,8 @@ Lalu setting config database berada di file
 
 Tinggal sesuaikan :)
 
+Download source di github :
+
+https://github.com/restugbk/latihan-9
+
 ~Restu Fadhilah

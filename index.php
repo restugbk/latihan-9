@@ -111,7 +111,7 @@ if (isset($_POST['add'])) {
                         <tbody>
                             <?php
                             $no = 0;
-                            $cek_data = mysqli_query($db, "SELECT * FROM mhsw ORDER BY id DESC");
+                            $cek_data = mysqli_query($db, "SELECT * FROM mhsw ORDER BY id ASC");
                             while ($data_show = mysqli_fetch_assoc($cek_data)) {
                             $no++;
                             ?>

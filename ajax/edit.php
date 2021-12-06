@@ -22,7 +22,7 @@ require ("../lib/config.php");
             </div>
             <div class="form-group">
                 <label class="form-control-label">Tanggal Lahir</label>
-                <input type="text" class="form-control" name="tgllahir" id="datepicker2" autocomplete="off" readonly required>
+                <input type="text" class="form-control" name="tgllahir" id="datepicker2" value="<?php echo $db_id['tgllahir']; ?>" autocomplete="off" readonly required>
             </div>
             <div class="form-group">
                 <label class="form-control-label">Alamat</label>
